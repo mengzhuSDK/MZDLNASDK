@@ -30,7 +30,7 @@ dependencies {
     androidTestImplementation('com.android.support.test.espresso:espresso-core:3.0.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
-// Cling library
+    // Cling library
     api 'org.fourthline.cling:cling-core:2.1.1'
     api 'org.fourthline.cling:cling-support:2.1.1'
     // Jetty library
